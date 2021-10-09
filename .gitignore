@@ -104,4 +104,4 @@ dist
 .tern-port
 
 # the file storing the json data
-./notes.json
+.notes.json
